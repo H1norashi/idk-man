@@ -1,0 +1,8 @@
+Nhóm 8- website bán hàng 
+Trần Đức Mạnh-2121050332: Giao diện web, giao diện danh mục sản phẩm, css
+
+Nguyễn Anh Tuấn-2121051063: Giao diện phần header, login, thanh toán,css
+
+Đỗ Quang Minh-2121050312: Tham gia làm  danh mục sản phẩm nữ, giày dép
+
+Ngô Văn Anh-2121050297: Giao diện product ,css
